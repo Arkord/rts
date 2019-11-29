@@ -1,7 +1,7 @@
 ﻿/**
-* ReadyToSendMailer.js v1.0
+* ReadyToSendMailer.js v2.0
 *
-* Copyright (C) 2013, Octavio Mejía.
+* Copyright (C) 2019, Florentino Mejía.
 * All rights reserved.
 *
 **/
